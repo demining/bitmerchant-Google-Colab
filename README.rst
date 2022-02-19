@@ -1,3 +1,10 @@
+-------------------------
+### Run bitmerchant-Google-Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
 .. image:: https://travis-ci.org/sbuss/bitmerchant.svg?branch=master
     :target: https://travis-ci.org/sbuss/bitmerchant
 
