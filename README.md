@@ -51,13 +51,15 @@ These features are planned (or in development where marked):
 If you find this library useful, please consider a small donation.  Donations
 will be used to reward developers for bugfixes.
 
-+--------------------------------------+--------------------------------------+
-| BTC                                  | Doge                                 |
-+======================================+======================================+
-| 19jSqVd8bpevi3qacBedkAdDqEXtGAn5t7   | DQ4b7RJfoniVwFsnrMJr6vi6n6UFeubdiv   |
-+--------------------------------------+--------------------------------------+
-| |Donate BTC|                         | |Donate DOGE|                        |
-+--------------------------------------+--------------------------------------+
+
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
+
 
 NOTICE
 ======
