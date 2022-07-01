@@ -399,12 +399,11 @@ Note that the full test suite on py-{2.5..3.4} takes about 5 minutes to run.
 pypy and pypy3 are considerably slower at about 25 minutes, due to unoptimized
 crypto operations.
 
-Packaging
----------
 
-See PACKAGING_
 
-.. _PACKAGING: https://raw.github.com/sbuss/bitmerchant/master/PACKAGING.md
+----
 
-.. |Donate BTC| image:: https://raw.github.com/sbuss/bitmerchant/master/media/donation_btc_qr_code.gif
-.. |Donate DOGE| image:: https://raw.github.com/sbuss/bitmerchant/master/media/donation_doge_qr_code.gif
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
